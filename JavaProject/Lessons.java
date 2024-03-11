@@ -6,5 +6,6 @@ class Lessons
         System.out.println("Hello world");
         System.out.println("Hello new commit");
         System.out.println("--amend");
+        System.out.println("delete branch new-feature");
     }
 }
